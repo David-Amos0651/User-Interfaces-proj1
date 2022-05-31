@@ -1,0 +1,1 @@
+To get it set up to run first type "npm install" then to launch the server type "npm start"
